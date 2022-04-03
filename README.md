@@ -1,2 +1,3 @@
 # ML-Linear_Regression
-This model demonstrates application of linear regression model
+This program demonstrates application of linear regression model
+sample data set used student_scores.csv and petrol_cosumption.csv
